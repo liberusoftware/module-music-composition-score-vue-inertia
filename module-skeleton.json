@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-composition-score-vue-inertia",
+  "capabilityKey": "liberusoftware/music-composition-score",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-music-composition-score-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/music/nextjs/composition-score.md",
+  "presentationPlan": "projects/music/vue/composition-score.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
